@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner com efeito de escrita animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gleisson!+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Desenvolvedor+Full+Stack+%26+Automa%C3%A7%C3%A3o;Criando+solu%C3%A7%C3%B5es+em+Software+e+Hardware" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gleisson!+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Trilhando+o+ caminho+para+Desenvolvedor+Full+Stack+%26+Automa%C3%A7%C3%A3o;Criando+solu%C3%A7%C3%B5es+em+Software+e+Hardware" alt="Typing SVG" />
 
   <p align="center">
     📍 Manaus, AM - Brasil &nbsp;|&nbsp; 🎓 Engenharia de Software
