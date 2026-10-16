@@ -1,38 +1,57 @@
-# Olá, eu sou o Gleisson! 👋
+<div align="center">
 
-🎓 **Estudante de Engenharia de Software**  
-💡 Apaixonado por desenvolvimento de software, automação e resolução de problemas práticos.  
-📍 Manaus, AM - Brasil
+  <!-- Banner com efeito de escrita animado -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gleisson!+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Desenvolvedor+Full+Stack+%26+Automa%C3%A7%C3%A3o;Criando+solu%C3%A7%C3%B5es+em+Software+e+Hardware" alt="Typing SVG" />
+
+  <p align="center">
+    📍 Manaus, AM - Brasil &nbsp;|&nbsp; 🎓 Engenharia de Software
+  </p>
+
+</div>
 
 ---
 
 ### 🚀 Sobre Mim
-- 📚 A aprofundar conhecimentos em Engenharia de Software, arquitetura de sistemas e cloud.
-- 🛠️ Experiência prática no desenvolvimento Full Stack (FastAPI, React, Python, TypeScript, SQL).
-- ⚙️ Interesse em automação, visão computacional e integração de sistemas.
+
+- 🎓 **Formação:** A aprofundar competências em Arquitetura de Software, Algoritmos e Nuvem.
+- 💻 **Foco Atual:** Desenvolvimento Full Stack e integração contínua com APIs e bases de dados.
+- ⚙️ **Interesses:** Automação, visão computacional, IoT e prototipagem inteligente.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens & Frameworks:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+<div align="center">
 
-**Base de Dados & Ferramentas:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  **Linguagens & Frameworks**  
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+  <br/><br/>
+
+  **Bases de Dados & Ferramentas**  
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Atividade
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GleissonBSilva&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleissonBSilva&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GleissonBSilva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleissonBSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GleissonBSilva&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
