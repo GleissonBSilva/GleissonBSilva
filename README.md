@@ -16,12 +16,22 @@
 
 ---
 
-### 🚀 Sobre Mim
-
-- 🎓 **Formação:** A aprofundar competências em Engenharia de Software, Arquitetura de Sistemas e Cloud.
-- ⚡ **Vibe Coding & IA First:** Desenvolvimento acelerado por Inteligência Artificial, transformando ideias e especificações em aplicações completas de alto desempenho com ciclos rápidos de prototipagem e entrega.
-- 💻 **Foco Técnico:** Aplicações Full Stack robustas (FastAPI, React, TypeScript, Python) com persistência em bases de dados relacionais e BaaS moderno.
-- ⚙️ **Hardware & Automação:** Experiência prática na ligação entre código, automação de processos e integração de sistemas físicos.
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="65%">
+      <h3>🚀 Sobre Mim</h3>
+      <ul>
+        <li>🎓 <strong>Formação:</strong> A aprofundar competências em Engenharia de Software, Arquitetura de Sistemas e Cloud.</li>
+        <li>⚡ <strong>Vibe Coding & IA First:</strong> Desenvolvimento acelerado por Inteligência Artificial, transformando ideias e especificações em aplicações completas de alto desempenho com ciclos rápidos de prototipagem e entrega.</li>
+        <li>💻 <strong>Foco Técnico:</strong> Aplicações Full Stack robustas (FastAPI, React, TypeScript, Python) com persistência em bases de dados relacionais e BaaS moderno.</li>
+        <li>⚙️ <strong>Hardware & Automação:</strong> Experiência prática na ligação entre código, automação de processos e integração de sistemas físicos.</li>
+      </ul>
+    </td>
+    <td align="center" valign="middle" width="35%">
+      <img src="Gemini_Generated_Image_w5jvfyw5jvfyw5jv.jpg" width="220" alt="Vegeta Dev Pixel Art" />
+    </td>
+  </tr>
+</table>
 
 ---
 
